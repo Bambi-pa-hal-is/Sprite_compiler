@@ -1,0 +1,19 @@
+{
+  "name": "sprite_compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bambi-pa-hal-is/Sprite_compiler.git"
+  },
+  "author": "Bambi på hal is",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bambi-pa-hal-is/Sprite_compiler/issues"
+  },
+  "homepage": "https://github.com/Bambi-pa-hal-is/Sprite_compiler#readme"
+}
