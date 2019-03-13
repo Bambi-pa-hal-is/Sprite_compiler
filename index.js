@@ -42,7 +42,7 @@ for(var i=0;i!=pokemonKeys.length;i++)
     spriteData.pokemon[pkmnName] = spriteDataPkmn;
 }
 
-fs.writeFileSync("pokemonsprites.json",JSON.stringify(spriteData,null,4));
+fs.writeFileSync("pokemonSprites.json",JSON.stringify(spriteData,null,4));
 console.log("Done!");
 
 function pokedexIdToThreeDigit(id)
