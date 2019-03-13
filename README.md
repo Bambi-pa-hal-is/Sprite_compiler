@@ -6,7 +6,8 @@
 1. Open CMD
 2. git clone https://github.com/Bambi-pa-hal-is/Sprite_compiler.git
 3. npm install
-4. Node index.js
+4. cd Sprite_compiler
+5. Node index.js
 
 # Adding new sprites
 1. Add pokemon to pokemon.json
