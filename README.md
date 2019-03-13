@@ -4,9 +4,9 @@
 # How to use
 
 1. Open CMD
-2. git clone https://github.com/Bambi-pa-hal-is/Sprite_compiler.git
-3. npm install
-4. cd Sprite_compiler
+2. git clone https://github.com/Bambi-pa-hal-is/Sprite_compiler.git'
+3. cd Sprite_compiler
+4. npm install
 5. Node index.js
 
 # Adding new sprites
