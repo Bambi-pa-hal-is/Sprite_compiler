@@ -15,6 +15,6 @@
 3. Run index.js
 
 # Using the sprites
-1. <img src="data:image/gif;base64,{REPLACE WITH BASE64 FROM pokemonsprites.json}" />
+add "data:image/gif;base64," as a prefix before the base64 in the src tag in the img element
 
 
