@@ -15,6 +15,6 @@
 3. Run index.js
 
 # Using the sprites
-add "data:image/gif;base64," as a prefix before the base64 in the src tag in the img element
+Add "data:image/gif;base64," as a prefix before the base64 in the src tag in the img element
 
 
